@@ -1,6 +1,12 @@
 {
   "usuarios": [
     {
+      "name":"andre",
+      "email": "andre@email.com",
+      "password": "Senha123"
+
+    },
+    {
       "name": "Peter Jason Quill",
       "email": "peter.quill@alura.com.br",
       "password": "Senha12345"
